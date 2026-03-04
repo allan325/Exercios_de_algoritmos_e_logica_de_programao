@@ -10,7 +10,5 @@ while  numero > 0  :
      print(numero)
      numero -=2
      print("Número par")
-        if numero == 0 :
-         print(numero)    
     if numero == 0 :
-         print(numero)
+      print(numero)    
